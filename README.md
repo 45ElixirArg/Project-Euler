@@ -1,5 +1,5 @@
 # Project-Euler
-Will trying to solve Project-Euler with elixir-lang and C-lang
+Will trying to solve Project-Euler with elixir-lang and C-lang, comparing execution time, not optimising, just how i thought the solution.
 
 Problem 1 
 Elixir-> 85 microseconds (0.000 085 seconds)
