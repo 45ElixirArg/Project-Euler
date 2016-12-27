@@ -24,3 +24,6 @@ C -> 2865180 microseconds (2.865180 seconds)
 Problem 6
 Elixir -> 75 microseconds ( 0.000075 seconds)
 C -> 10 microseconds ( 0.000010  seconds )
+
+Problem 7
+C -> 2587536 ( 2.587536 seconds)
